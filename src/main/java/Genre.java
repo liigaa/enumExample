@@ -1,0 +1,3 @@
+public enum Genre {
+    FANTASY, ROMANCE, SCIENTIFIC, CRIMINAL
+}
